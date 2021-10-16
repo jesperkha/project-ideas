@@ -16,4 +16,10 @@ Create a web application that lets you create and send out simple surveys. Use a
 
 ## **File handler**
 
-Make a simple file handler for moving/deleting/renaming (etc) files.
+Make a simple file handler for managing files and directories.
+
+- Keyboard shortcuts for the most used commands. (customizable)
+- Integrated terminal (or at the very least git)
+- Clean desktop UI
+- Dual directory display
+- Recommended tools: Go
