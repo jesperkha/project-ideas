@@ -22,7 +22,7 @@ Make a simple file handler for managing files and directories.
 - Integrated terminal (or at the very least git)
 - Clean desktop UI
 - Dual directory display
-- Recommended tools: Go
+- Recommended tools: Go (fyne)
 
 <br>
 
