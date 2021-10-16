@@ -23,3 +23,15 @@ Make a simple file handler for managing files and directories.
 - Clean desktop UI
 - Dual directory display
 - Recommended tools: Go
+
+<br>
+
+## **Basic programming language**
+
+Design and create a simple programming/scripting language.
+
+- Include all basic math and string operations
+- Dynamic variable types
+- Conditionals and flow control
+- Functions, objects/structs, classes, arrays
+- Good error handling
