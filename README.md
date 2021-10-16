@@ -35,3 +35,14 @@ Design and create a simple programming/scripting language.
 - Conditionals and flow control
 - Functions, objects/structs, classes, arrays
 - Good error handling
+
+<br>
+
+## New data format (human readable)
+
+Design a new data format that can be read by humans.
+
+- Support strings, numbers, arrays (include data types)
+- Support classes and objects (format in header file)
+- Custom types
+- Validator
