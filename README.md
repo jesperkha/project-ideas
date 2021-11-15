@@ -46,3 +46,15 @@ Design a new data format that can be read by humans.
 - Support classes and objects (format in header file)
 - Custom types
 - Validator
+
+<br>
+
+## 3D raycast game / sim
+
+Create a simple program that converts a 2d tilemap and projects it as "3D" to the screen using simple raycasting.
+
+- 4-way movement
+- Map editor
+- Collision
+- Texture for walls
+- Items with textures
