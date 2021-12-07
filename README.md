@@ -49,7 +49,7 @@ Design a new data format that can be read by humans.
 
 <br>
 
-## 3D raycast game / sim
+## 2D raycast game
 
 Create a simple program that converts a 2d tilemap and projects it as "3D" to the screen using simple raycasting.
 
@@ -58,3 +58,12 @@ Create a simple program that converts a 2d tilemap and projects it as "3D" to th
 - Collision
 - Texture for walls
 - Items with textures
+
+<br>
+
+## Image rendering with raytracing
+
+Make a program that renders an image with a lot of reflective surfaces, lights, and shadows using raytracing.
+
+- Save image as file
+- Basic scene editor
