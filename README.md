@@ -10,7 +10,6 @@ Create a web application that lets you create and send out simple surveys. Use a
 - Register users with email. Unregistered users can only make one survey, but answer any amount. Registered users can create and answer any amount
 - Send out link to answer a survey
 - Visualize answer data in a meaningful way
-- Recommended tools: Go, JavaScript/TypeScript, any database
 
 <br>
 
@@ -22,7 +21,6 @@ Make a simple file handler for managing files and directories.
 - Integrated terminal (or at the very least git)
 - Clean desktop UI
 - Dual directory display
-- Recommended tools: Go (fyne)
 
 <br>
 
