@@ -2,7 +2,7 @@
 
 <br>
 
-## **Survey making app with markdown-like survey creation**
+## Survey making app with markdown-like survey creation
 
 Create a web application that lets you create and send out simple surveys. Use a text based editor instead of a clumsy UI.
 
@@ -13,7 +13,7 @@ Create a web application that lets you create and send out simple surveys. Use a
 
 <br>
 
-## **File handler**
+## File handler
 
 Make a simple file handler for managing files and directories.
 
@@ -24,7 +24,7 @@ Make a simple file handler for managing files and directories.
 
 <br>
 
-## **Basic programming language**
+## Basic programming language
 
 Design and create a simple programming/scripting language.
 
@@ -63,5 +63,16 @@ Create a simple program that converts a 2d tilemap and projects it as "3D" to th
 
 Make a program that renders an image with a lot of reflective surfaces, lights, and shadows using raytracing.
 
-- Save image as file
+- Diffuse and reflective surfaces
 - Basic scene editor
+- Multiple light sources
+
+<br>
+
+## File system
+
+Design your own file system.
+
+- Allow for big files
+- Directories and sub-directories
+- Make a simple cli for browsing the contents
