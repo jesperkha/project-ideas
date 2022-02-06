@@ -76,3 +76,13 @@ Design your own file system.
 - Allow for big files
 - Directories and sub-directories
 - Make a simple cli for browsing the contents
+
+<br>
+
+## Code Q/A fetcher
+
+Create an app that pulls Q/As from stack overflow and other websites related to what the user searches for. Present a list of the results with a few key details about each post.
+
+- Use an api or web scraper to gather data
+- Smart search
+- Represent the posts in a easy-to-look-through list
