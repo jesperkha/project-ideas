@@ -86,3 +86,17 @@ Create an app that pulls Q/As from stack overflow and other websites related to 
 - Use an api or web scraper to gather data
 - Smart search
 - Represent the posts in a easy-to-look-through list
+
+<br>
+
+## Terminal text editor
+
+A terminal text editor with syntax highlighting and basic editing bindings
+
+- Typing, deletion, selection, copy, paste etc (with keybindings config file)
+- Line numbers, rulers, infobar
+- Open, save, close, create, rename files
+- Syntax highlighting (with regex config file)
+- Allow multiple open file buffers (vertical and horizontal)
+- Dialogue box for autocompletion and suggestions
+- Allow for linters and formatters
